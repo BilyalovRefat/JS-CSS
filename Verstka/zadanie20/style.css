@@ -1,0 +1,18 @@
+k {
+    color: red;
+    text-decoration: overline;
+}
+
+j {
+    color: green;
+    text-decoration: line-through;
+}
+
+n {
+    text-decoration: underline;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
