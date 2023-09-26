@@ -1,0 +1,58 @@
+/* Задание 1 */
+#block h1, #block h2 {
+	text-align: center;
+}
+
+
+/* Задание 2 */
+#block h1, #block h2 {
+	text-align: center;
+}
+
+#block h1{
+	font-size: 30px;
+}
+
+#block h2 {
+	font-size: 20px;
+}
+
+
+/* Задание 3 */
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+
+#block h2 {
+	color: blue;
+}
+
+#block h3 {
+	font-size: 16px;
+	color: red;
+}
+
+
+/* Задание 4 */
+#block h1.eee {
+	font-size: 30px;
+}
+
+#block h2.zzz {
+	font-size: 20px;
+}
+
+#block h2.eee, #block h2.zzz {
+	text-align: center;
+}
+
+
+/* Задание 5 */
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+
+/* Задание 6 */
+.eee h2.zzz, .xxx {
+	text-align: center;
+}
