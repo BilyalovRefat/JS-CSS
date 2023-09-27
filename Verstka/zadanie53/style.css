@@ -1,0 +1,23 @@
+#elem1 {
+    border: 3px solid blue;
+    width: 250px;
+	height: 200px;
+}
+
+#elem2 {
+    border: 3px dotted red;
+    width: 250px;
+	height: 200px;
+}
+
+#elem3 {
+    border: 3px dashed orange;
+    width: 250px;
+	height: 200px;
+}
+
+#elem4 {
+    border: 3px double blue;
+    width: 250px;
+	height: 200px;
+}
