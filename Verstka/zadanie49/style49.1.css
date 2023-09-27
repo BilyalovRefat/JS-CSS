@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 h2:first-of-type {
     color: red;
 }
 
 p:last-of-type {
     color: red;
-=======
-h2:first-of-type {
-    color: red;
-}
-
-p:last-of-type {
-    color: red;
->>>>>>> de05669d916c64eab73f8ebb2c915b27f6804689
 }
