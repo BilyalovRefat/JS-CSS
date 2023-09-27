@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #elem {
 	width: 200px;
 	height: 300px;
@@ -15,4 +16,23 @@
 .eee {
 	text-align: center;
 	font-size: 30px;
+=======
+#elem {
+	width: 200px;
+	height: 300px;
+	color: white;
+	background-color: #6600ff;
+}
+
+#block {
+	width: 300px;
+	height: 200px;
+	color: white;
+	background-color: aquamarine;
+}
+
+.eee {
+	text-align: center;
+	font-size: 30px;
+>>>>>>> de05669d916c64eab73f8ebb2c915b27f6804689
 }

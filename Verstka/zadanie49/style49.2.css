@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 h2:nth-of-type(2) {
 	color: red;
 }
 
 h2:nth-last-of-type(1) {
 	color: red;
+=======
+h2:nth-of-type(2) {
+	color: red;
+}
+
+h2:nth-last-of-type(1) {
+	color: red;
+>>>>>>> de05669d916c64eab73f8ebb2c915b27f6804689
 }

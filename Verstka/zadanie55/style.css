@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #elem1 {
     width: 200px;
 	height: 200px;
@@ -17,4 +18,25 @@
 	height: 200px;
 	border-radius: 100px;
 	border: 1px solid green;
+=======
+#elem1 {
+    width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 30px;
+}
+
+#elem2 {
+	border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: #30d5c8;
+}
+
+#elem3 {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 1px solid green;
+>>>>>>> de05669d916c64eab73f8ebb2c915b27f6804689
 }

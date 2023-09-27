@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 li:not(.elem) {
     color: red;
+=======
+li:not(.elem) {
+    color: red;
+>>>>>>> de05669d916c64eab73f8ebb2c915b27f6804689
 }
