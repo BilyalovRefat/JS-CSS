@@ -1,0 +1,15 @@
+p.bbb {
+	color: red;
+}
+
+p .bbb {
+	color: red;
+}
+
+.eee p.bbb {
+	color: red;
+}
+
+.eee p .bbb {
+	color: red;
+}
