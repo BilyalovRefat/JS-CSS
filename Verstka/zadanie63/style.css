@@ -1,0 +1,28 @@
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
+
+.large {
+    font-size: 30px;
+}
+
+.small {
+    font-size: 20px;
+}
+
+
+.bord {
+    color: orange;
+}
+
+.plast {
+    font-size: 40px;
+}
+
+.port {
+    color: rebeccapurple;
+}
