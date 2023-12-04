@@ -1,0 +1,9 @@
+#block {
+    color: red;
+    font-size: 20px;
+}
+
+.text {
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
